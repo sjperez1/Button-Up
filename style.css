@@ -1,0 +1,28 @@
+.search {
+    border-radius: 20px;
+    border-color: #7dc8c8;
+    color: #7dc8c8;
+    width: 150px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.plus {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    color: white;
+    background-color: #7dc8c8;    ;
+    border-color: cadetblue;
+    display: block;
+    margin-bottom: 10px;
+}
+.create_account {
+    color: white;
+    background-color: blue;
+    border-color: black;
+    border-width: 2.5px;
+    width: 200px;
+    height: 32px;
+    font-size: larger;
+    box-shadow: 5px 5px 0px black;
+}
